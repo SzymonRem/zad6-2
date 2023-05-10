@@ -17,7 +17,7 @@ class Main {
             try {
                 int ex = menu();
                 switch(ex) {
-                    case 1: exercise1(); break; 
+                    case 1: exercise1(); break;  
                     case 2: exercise2(); break;
                     case 3: exercise3(); break;
                     default: return;
